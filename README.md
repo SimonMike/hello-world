@@ -1,2 +1,5 @@
 # hello-world
-my first repo test
+hello,
+this is my first edit github.
+it will be a long journey for me.
+be happy!
